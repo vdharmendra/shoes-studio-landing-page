@@ -16,7 +16,7 @@
   <li>desgin in Abode XD</li>
 </ul>
 <br>
-<a href="https://www.behance.net/gallery/157705455/Emailer" target="_blank" >
+<a href="https://www.behance.net/gallery/210772773/Shoes-Studio" target="_blank" >
 <img src="https://raw.githubusercontent.com/vdharmendra/shoes-studio-landing-page/refs/heads/main/img/shoe-studio-landing-page.png" alt="simply-clothing-mailer" width="575px" />
 </a>
 
