@@ -17,7 +17,7 @@
 </ul>
 <br>
 <a href="https://www.behance.net/gallery/157705455/Emailer" target="_blank" >
-<img src="https://github.com/vdharmendra/simply_clothing_mailer/blob/main/simplyclothing.png" alt="simply-clothing-mailer" width="575px" />
+<img src="https://raw.githubusercontent.com/vdharmendra/shoes-studio-landing-page/refs/heads/main/img/shoe-studio-landing-page.png" alt="simply-clothing-mailer" width="575px" />
 </a>
 
 
